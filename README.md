@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a data science masters student at UBC with a background in chemistry 🧪 and an interest in clean 🌱 tech. I have experience with machine learning, large datasets, and full-stack web development.</p>
+<p align="left">I'm a data science masters student at UBC with a background in chemistry 🧪 and an interest in clean tech 🌱. I have experience with machine learning, large datasets, and full-stack web development.</p>
 
 ###
 
