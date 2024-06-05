@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a data science masters student at the University of British Columbia in Vancouver. I have experience with machine learning, large datasets, and full-stack web development. Currently working on a Capstone project with AI-driven, Vancouver-bassed company Side, as part of my Masters in Data Science program at UBC. </p>
+<p align="left">I'm a data science masters student at the University of British Columbia in Vancouver. I have experience with machine learning, large datasets, and full-stack web development. Currently working on a Capstone project with AI-driven, Vancouver-based real estate company Side., as part of my Masters in Data Science program at UBC. </p>
 
 ###
 
